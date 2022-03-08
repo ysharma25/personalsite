@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1, h2, h3, h4, h5 {
+    color: rgb(22, 47, 70);
+    margin-left: 20px;
+    font-family: "Verdana";
+   
+  }
+  .body-text {
+    color:rgb(22, 47, 70);
+    margin-right: 40px;
+  }
+
+  .paragraph-format {
+    color:rgb(12, 20, 27);
+    font-family: "Verdana";
+    margin-right: 40pxx;
+  }
+
+ .container {
+    color:rgb(24, 51, 77);
+  }
+  
+  .top-margin {
+    padding-top: 40px;
+  }
